@@ -1,0 +1,11 @@
+{
+  "name": "dago-is-roullete",
+  "version": "1.0.0",
+  "description": "This is an app that gives you ticket for an unique cuban local",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dago  //tocarralero@gmail.com",
+  "license": "ISC"
+}
