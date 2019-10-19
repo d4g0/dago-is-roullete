@@ -4,4 +4,4 @@
 
 #   You can try it here :  https://dago-is-roullete.herokuapp.com/
 
-#   And you can see some funny Dom edit function on : https://github.com/d4g0/dago-is-roullete/blob/master/public/r.js 
+#   And you can see some funny Dom edit functions on : https://github.com/d4g0/dago-is-roullete/blob/master/public/r.js 
