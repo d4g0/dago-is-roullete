@@ -1,3 +1,5 @@
+# This is my first github repo ever, there is not alive any more, but it's nice to look back and see where we come from, dont you think.
+
 ##	Dago's roullete 
 
 #	  This is an app that gives you ticket for an unique cuban local experience gived by me.
